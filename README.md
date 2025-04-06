@@ -76,4 +76,8 @@ if __name__ == "__main__":
 
 ### OUTPUT:
 
+![image](https://github.com/user-attachments/assets/c44e90e1-99e0-4c07-91f0-97f33328e8c8)
+
+
 ### RESULT:
+Hence,the python program to design and implement a Python function for calculating the volume of a cylinder, integrating it with a chat completion system utilizing the function-calling feature of a large language model (LLM) is successfully demonstrated.
